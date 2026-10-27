@@ -68,4 +68,4 @@ Python · Keras / TensorFlow · OpenCV · Tesseract (pytesseract) · NumPy · Tk
 
 ## Authors
 
-Ori Shoshana and [teammate name]
+Ori Shoshana and Amir Hay Tamar
